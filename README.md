@@ -32,7 +32,7 @@ No installation needed. Just open the project locally:
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/mahfooz091/stopwatch.git
+   git clone https://github.com/mahfooz091/stopWatch.git
    ```
 
 2. **Open `index.html` in your browser**
